@@ -44,5 +44,5 @@ A text-based adventure game where players navigate locations, manage inventory, 
 
 ## Currently Learning
 
-- AI Agents and agentic workflows
+- Building AI agents with Python — tool integration and agentic workflows
 
