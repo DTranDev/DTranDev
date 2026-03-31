@@ -31,19 +31,16 @@ Built and independently delivered the frontend for HR Hero's beta launch using *
 [DataVis](https://github.com/DTranDev/DataVis) — A two-person project that visualises mortality rate data sourced from the OECD Data Explorer using **D3.js**. I was responsible for the backend and implementing the UI from Figma designs. The deliverable was a static website featuring interactive data visualisations and a contact form.
 
 ### Android Applications
-Three solo-developed Android apps built with **Kotlin** and **Android Studio**, demonstrating activity lifecycle management, RecyclerView lists, multi-activity navigation, Parcelable data transfer, and media playback.
+Three Android apps built with **Kotlin** and **Android Studio** — a scoring game with sound effects and state persistence, an Olympic medal statistics browser with country rankings, and a travel photo gallery with ratings and navigation. Demonstrates activity lifecycle management, RecyclerView lists, multi-activity navigation, Parcelable data transfer, and media playback.
 
 ### Vue.js Single Page Application
-A single-page application built with **Vue.js**, **Vue Router**, and **Bootstrap**, featuring client-side routing, reusable components, pagination, and JSON data integration.
+A student portal with a post feed, string validation tool, and student marks viewer, built with **Vue.js**, **Vue Router**, and **Bootstrap**. Features client-side routing, reusable components, pagination, and JSON data integration.
 
 ### PHP Web Applications
-Two full-stack web applications built with **PHP** and **MySQL** — a job board system with posting and search functionality, and a social network with user authentication and friend management.
+Two full-stack web applications built with **PHP** and **MySQL** — a job board where users can post and search listings, and a social network with user authentication, profiles, and friend management.
 
 ### C# Text Adventure Game
-A text-based adventure game built in **C#** demonstrating OOP principles including inheritance, polymorphism, the command pattern, and interface segregation. Includes a full **NUnit** test suite.
-
-### Pizza Restaurant Website
-A multi-page restaurant website built with **HTML**, **CSS**, and **JavaScript**, featuring a menu, order form, registration page, and responsive layout.
+A text-based adventure game where players navigate locations, manage inventory, and interact with the world via text commands. Built in **C#** demonstrating OOP principles including inheritance, polymorphism, the command pattern, and interface segregation. Includes a full **NUnit** test suite.
 
 ## Currently Learning
 
