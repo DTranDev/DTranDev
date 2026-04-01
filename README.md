@@ -12,7 +12,7 @@ I'm currently interning at **HR Hero**, where I'm helping build the frontend for
 
 ## Work Experience
 
-### HR Hero — Frontend Developer Intern
+### HR Hero — Software Developer Intern
 Built and independently delivered the frontend for HR Hero's beta launch using **React + Vite**. Designed targeted landing pages, implemented mobile-first responsive layouts, and handled SEO optimisation with JSON-LD schema. HR Hero is a compliance tool that helps employers create legally compliant job descriptions during the pre-contract stage. [hr-hero.com.au](https://hr-hero.com.au/)
 
 ## Personal Projects
