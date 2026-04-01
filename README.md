@@ -6,7 +6,7 @@ I'm currently interning at **HR Hero**, where I'm helping build the frontend for
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, Kotlin, C#, PHP, HTML, CSS, SQL
+**Languages:** Python, JavaScript, Kotlin, C#, PHP, SQL
 
 **Frameworks & Tools:** React, Vite, Vue.js, D3.js, Bootstrap, Android Studio, .NET, NUnit, Git
 
